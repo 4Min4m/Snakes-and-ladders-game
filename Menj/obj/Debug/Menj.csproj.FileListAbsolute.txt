@@ -1,0 +1,23 @@
+E:\Visual Studio 2005 Projects\Projects-new\Menj\Menj\bin\Debug\Menj.exe
+E:\Visual Studio 2005 Projects\Projects-new\Menj\Menj\bin\Debug\Menj.pdb
+E:\Visual Studio 2005 Projects\Projects-new\Menj\Menj\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2005 Projects\Projects-new\Menj\Menj\obj\Debug\Menj.Board.resources
+E:\Visual Studio 2005 Projects\Projects-new\Menj\Menj\obj\Debug\Menj.Form1.resources
+E:\Visual Studio 2005 Projects\Projects-new\Menj\Menj\obj\Debug\Menj.Properties.Resources.resources
+E:\Visual Studio 2005 Projects\Projects-new\Menj\Menj\obj\Debug\Menj.csproj.GenerateResource.Cache
+E:\Visual Studio 2005 Projects\Projects-new\Menj\Menj\obj\Debug\Menj.exe
+E:\Visual Studio 2005 Projects\Projects-new\Menj\Menj\obj\Debug\Menj.pdb
+C:\Users\Hamze\Desktop\mar-pelleh-[www.prozhe.com]\mar-pelleh-graphic\Menj\obj\Debug\Menj.pdb
+C:\Users\Hamze\Desktop\mar-pelleh-[www.prozhe.com]\mar-pelleh-graphic\Menj\bin\Debug\Menj.exe
+C:\Users\Hamze\Desktop\mar-pelleh-[www.prozhe.com]\mar-pelleh-graphic\Menj\bin\Debug\Menj.pdb
+C:\Users\Hamze\Desktop\mar-pelleh-[www.prozhe.com]\mar-pelleh-graphic\Menj\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hamze\Desktop\mar-pelleh-[www.prozhe.com]\mar-pelleh-graphic\Menj\obj\Debug\Menj.Board.resources
+C:\Users\Hamze\Desktop\mar-pelleh-[www.prozhe.com]\mar-pelleh-graphic\Menj\obj\Debug\Menj.Form1.resources
+C:\Users\Hamze\Desktop\mar-pelleh-[www.prozhe.com]\mar-pelleh-graphic\Menj\obj\Debug\Menj.Properties.Resources.resources
+C:\Users\Hamze\Desktop\mar-pelleh-[www.prozhe.com]\mar-pelleh-graphic\Menj\obj\Debug\ResGen.read.1.tlog
+C:\Users\Hamze\Desktop\mar-pelleh-[www.prozhe.com]\mar-pelleh-graphic\Menj\obj\Debug\ResGen.write.1.tlog
+C:\Users\Hamze\Desktop\mar-pelleh-[www.prozhe.com]\mar-pelleh-graphic\Menj\obj\Debug\Menj.exe
+D:\hamze\mar-pelleh-[www.prozhe.com]\mar-pelleh-graphic\Menj\obj\Debug\Menj.exe
+D:\hamze\mar-pelleh-[www.prozhe.com]\mar-pelleh-graphic\Menj\obj\Debug\Menj.pdb
+I:\mar-pelleh-[www.prozhe.com]\mar-pelleh-graphic\Menj\obj\Debug\Menj.exe
+I:\mar-pelleh-[www.prozhe.com]\mar-pelleh-graphic\Menj\obj\Debug\Menj.pdb
